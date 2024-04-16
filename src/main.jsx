@@ -16,7 +16,7 @@ import Post from "./pages/Post";
 
 import AllPosts from "./pages/AllPosts";
 
-const router = createBrowserRouter([
+const router = s([
     {
         path: "/",
         element: <App />,
